@@ -35,4 +35,4 @@
 1. After scrolling to bottom, last item bottom border radius missing
 
 ## Wallet screen
-![RF1](./images/Home.jpeg)
+![RF1](./images/WalletPage.jpeg)
